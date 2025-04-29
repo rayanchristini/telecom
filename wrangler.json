@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "telecom",
+  "name": "telecom-manager",
   "upload_source_maps": true,
   "d1_databases": [
     {
